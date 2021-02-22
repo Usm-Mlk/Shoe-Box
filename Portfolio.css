@@ -1,0 +1,30 @@
+nav {
+  background-image: linear-gradient(to right, #8fdbf0da, #335c67a9);
+  height: 100px;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.897), rgba(0, 0, 0, 0.425)),
+    url("../assets/backgroundwall/2.jpg");
+  background-size: cover;
+}
+
+/* .card {
+    border: 1px solid;
+    box-shadow: 0px 0px 10px 0px #adb5bd;
+} */
+
+.card-body {
+  background-color: #ced4da;
+}
+
+footer {
+  background-color: #335c675b;
+}
+li {
+  margin-top: 10px;
+}
+a {
+  text-decoration-line: none;
+  color: azure;
+}
